@@ -19,3 +19,10 @@ git remote add origin https://github.com/pascal-muellair/my_first_local_rep.git
 git branch -M main
 git push -u origin main -> Pusht das derzeitige Verzeichnis auf git
 
+----------
+git branch alian_plot       -> create branch
+
+git branch                  -> show branches
+
+git checkout "alian_plot"  -> move to branch
+
