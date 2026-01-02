@@ -1,11 +1,14 @@
+
+
 first message:
 
 git init -> erstellt git instanz
 
 git status
 
-git add git.txt -> fügt ein file hinzu
-git add . -> fügt alle files aus Ordner hinzu
+git add git.txt -> fügt ein file hinzu (staging area)
+git add . -> fügt alle files aus Ordner hinzu (staging area)
 
 git commit -m "i added a text to a empty doc"
 
+git diff chapter3.txt 
