@@ -1,1 +1,11 @@
-first message
+first message:
+
+git init -> erstellt git instanz
+
+git status
+
+git add git.txt -> fügt ein file hinzu
+git add . -> fügt alle files aus Ordner hinzu
+
+git commit -m "i added a text to a empty doc"
+
