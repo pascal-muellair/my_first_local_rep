@@ -11,4 +11,11 @@ git add . -> fügt alle files aus Ordner hinzu (staging area)
 
 git commit -m "i added a text to a empty doc"
 
-git diff chapter3.txt 
+git diff chapter3.txt
+
+----------
+REMOTE GIT
+git remote add origin https://github.com/pascal-muellair/my_first_local_rep.git
+git branch -M main
+git push -u origin main -> Pusht das derzeitige Verzeichnis auf git
+
